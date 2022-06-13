@@ -1,0 +1,62 @@
+<?php 
+session_start();
+
+	include("connection.php");
+	include("functions.php");
+
+	$user_data = check_login($con);
+
+?>
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+
+
+<script type="text/javascript">
+    <!--
+    if (screen.width <= 700) {
+    document.location = "yourmobilepage.html";
+    }
+    //-->
+    </script>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Solara.vip</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="penis.css">
+    </head>
+    <sript
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <script src="kys.js" async defer></script>
+        
+    </body>
+
+    <div class="text" >Solara.vip</div>
+    <div class="text" >
+        Only the best
+    </div>
+    
+    <h1 class="h1"><a href="#"></a></h1>
+    
+    <div class="div2" ><img src="3.png" style="float:left; top: -500px; transform: translate(10%, -80%);" height="150" width="150" alt="Girl in a jacket" ></div>
+    <a href="https://gloriaware.cc/login"><h2 class="text"style= transform:translate(-2170%,700%); color:#5a42f5>login</h2></a>
+    <a href="https://gloriaware.cc/login"><h2 class="text"style= transform:translate(-1320%,800%); color:#5a42f5>register</h2></a>
+    <div style="transform:translate(-36%, 750%)" class="meow2">d</div>
+    <div class="meow2"style="transform:translate(0%, 650%);">h</div>
+    <div class="penis"><h3 style="float:left; left:10px; top:-50px;" class="meow2">d</h3></div>
+    <body></body>
+ </html>
+ 
+ <div class="marilyn" style = " font-size:24px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; position:relative; z-index: 10; left:550px; top:400px;">
+
+
